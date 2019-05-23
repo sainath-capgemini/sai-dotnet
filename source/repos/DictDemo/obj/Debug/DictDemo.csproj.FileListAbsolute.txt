@@ -1,0 +1,2 @@
+C:\Users\Abridge Solutions\source\repos\DictDemo\obj\Debug\DictDemo.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\source\repos\DictDemo\obj\Debug\DictDemo.csproj.CoreCompileInputs.cache

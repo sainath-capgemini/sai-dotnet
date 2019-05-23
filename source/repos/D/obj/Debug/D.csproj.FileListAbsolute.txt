@@ -1,0 +1,7 @@
+C:\Users\Abridge Solutions\source\repos\D\bin\Debug\D.exe.config
+C:\Users\Abridge Solutions\source\repos\D\bin\Debug\D.exe
+C:\Users\Abridge Solutions\source\repos\D\bin\Debug\D.pdb
+C:\Users\Abridge Solutions\source\repos\D\obj\Debug\D.csprojAssemblyReference.cache
+C:\Users\Abridge Solutions\source\repos\D\obj\Debug\D.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\source\repos\D\obj\Debug\D.exe
+C:\Users\Abridge Solutions\source\repos\D\obj\Debug\D.pdb

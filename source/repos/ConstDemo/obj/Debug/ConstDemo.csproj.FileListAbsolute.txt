@@ -1,0 +1,6 @@
+C:\Users\Abridge Solutions\source\repos\ConstDemo\bin\Debug\ConstDemo.exe.config
+C:\Users\Abridge Solutions\source\repos\ConstDemo\bin\Debug\ConstDemo.exe
+C:\Users\Abridge Solutions\source\repos\ConstDemo\bin\Debug\ConstDemo.pdb
+C:\Users\Abridge Solutions\source\repos\ConstDemo\obj\Debug\ConstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\source\repos\ConstDemo\obj\Debug\ConstDemo.exe
+C:\Users\Abridge Solutions\source\repos\ConstDemo\obj\Debug\ConstDemo.pdb

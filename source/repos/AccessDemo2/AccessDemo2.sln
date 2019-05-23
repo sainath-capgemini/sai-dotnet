@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessDemo2", "AccessDemo2.csproj", "{94064A1F-CD19-4CAE-8685-EB9BD1FA48C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AaccessMod1", "..\..\..\..\..\c sharp\day6\AaccessMod1\AaccessMod1.csproj", "{FCB3317E-011C-45D5-8816-1997989B87B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94064A1F-CD19-4CAE-8685-EB9BD1FA48C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94064A1F-CD19-4CAE-8685-EB9BD1FA48C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94064A1F-CD19-4CAE-8685-EB9BD1FA48C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94064A1F-CD19-4CAE-8685-EB9BD1FA48C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB3317E-011C-45D5-8816-1997989B87B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB3317E-011C-45D5-8816-1997989B87B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB3317E-011C-45D5-8816-1997989B87B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB3317E-011C-45D5-8816-1997989B87B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4429D0C-BE53-446D-8475-FBA707A1805B}
+	EndGlobalSection
+EndGlobal
